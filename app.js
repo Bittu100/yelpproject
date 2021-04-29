@@ -21,7 +21,7 @@ const userRoutes = require('./routes/users');
 const campgroundRoutes = require('./routes/campgrounds');
 const reviewRoutes = require('./routes/reviews');
 
-const dbUrl='mongodb+srv://chayan:chayanbhar@cluster0.xeffg.mongodb.net/yelpdata?retryWrites=true&w=majority'
+const dbUrl='mongodb://localhost:27017/yelp-camp2'
 
 //'mongodb://localhost:27017/yelp-camp2'
 
